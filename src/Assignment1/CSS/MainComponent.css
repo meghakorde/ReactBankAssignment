@@ -1,0 +1,27 @@
+h1 {
+  font-size: 20px;
+}
+.Box {
+  padding: 20px 100px;
+}
+#add {
+  border: 3px solid green;
+  padding: 1rem 0.3rem;
+}
+#sub {
+  border: 3px solid red;
+  padding: 1rem 0.3rem;
+}
+button {
+  font-weight: bold;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+label {
+  font-size: 14px;
+  font-weight: bold;
+}
